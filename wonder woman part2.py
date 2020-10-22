@@ -4,7 +4,7 @@ def lassoLetter( letter, shiftAmount ):
     # Save the code value to the variable called letterCode
     letterCode = ord(letter.lower())
     
-    # The ASCII number representation of lowercase letter a
+    # The ASCII number representation of lowercase letter 'a'
     aAscii = ord('a')
 
     # The number of letters in the alphabet
